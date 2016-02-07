@@ -1,0 +1,55 @@
+body{
+	margin: 0;
+	background-color: RGB(238, 238, 238);
+
+}
+.paper_list{
+	top: 4px;
+	width: 414px;
+	height: 749px;
+	position: relative;
+	margin: auto;
+	padding: 1px 49px 1px 49px;
+	background-color: white;
+	box-shadow: 0 0 4px RGBA(128, 128, 128, 0.5);
+}
+
+.fio{
+	margin-top: 48px;
+	margin-bottom: 20px;
+	text-align: center;
+	font: bolder 22px Times,Sans-serif;
+	}
+
+.photo{
+	display: block;
+	margin: auto;
+	margin-bottom: 12px;
+}
+
+.general_section{
+	margin-left: 13px;
+	font: normal 18px Times,Sans-serif;
+}
+
+.new_subsection{
+	margin-left: -13px;
+	margin-top: 17px;
+	border-top: 1px solid RGB(128,122,122);
+}
+
+p {
+	margin-top: 25px;
+	margin-bottom: 4px;
+}
+
+ul {
+	margin-top: 28px;
+	margin-bottom: 17px;
+	padding-left: 1.4em;
+	line-height: 26px;
+}
+
+a {
+	color: blue;
+}
