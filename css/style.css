@@ -1,17 +1,17 @@
-body{
+*{
 	margin: 0;
-	background-color: RGB(238, 238, 238);
-
+	padding: 0;
 }
+
+body{
+	background-color: RGB(238, 238, 238);
+}
+
 .paper_list{
-	top: 4px;
-	width: 414px;
-	height: 749px;
-	position: relative;
-	margin: auto;
-	padding: 1px 49px 1px 49px;
+	margin: 4px 30% 0px 30%;
+	padding: 1px 3.83% 76px 3.83%;
 	background-color: white;
-	box-shadow: 0 0 4px RGBA(128, 128, 128, 0.5);
+	box-shadow: 0 0 4px RGBA(128, 128, 128, 0.6);
 }
 
 .fio{
@@ -50,6 +50,6 @@ ul {
 	line-height: 26px;
 }
 
-a {
+a:visited {
 	color: blue;
 }
