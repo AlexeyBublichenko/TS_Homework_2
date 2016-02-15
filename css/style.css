@@ -8,8 +8,9 @@ body{
 }
 
 .paper_list{
-	margin: 4px 30% 0px 30%;
-	padding: 1px 3.83% 76px 3.83%;
+	margin: 4px auto;
+	width: 412px;
+	padding: 1px 50px 76px 50px;
 	background-color: white;
 	box-shadow: 0 0 4px RGBA(128, 128, 128, 0.6);
 }
